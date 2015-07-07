@@ -26,7 +26,7 @@
 
 		emptylisttext {
 			textcolor="grey"
-			font-size="14"
+			
 			render_bg {}
 		}
 

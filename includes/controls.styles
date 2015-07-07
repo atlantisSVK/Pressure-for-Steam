@@ -12,7 +12,6 @@
 
 		Slider {
 			font-family=basefont
-			font-size=11
 			font-weight=400
 			textcolor  = "white"
 			render_bg {
@@ -62,8 +61,6 @@
 	// ***********************************************
 		ComboBox { // DropDowns
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			textcolor="white"
 
 			font-style="none"
@@ -133,8 +130,6 @@ font-size=14 [$LINUX]
 
 			ComboBox:hover {
 				font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
 				textcolor="trueWhite"
 
 				font-style="none"
@@ -333,10 +328,7 @@ font-size=14 [$LINUX]
 
 			"Page ComboBox" {
 				font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
 				textcolor="white"
-				//textcolor="red" [$OSX] //Test for Mac to see if we can define in same styles option
 
 				font-style="none"
 
@@ -476,8 +468,6 @@ font-size=14 [$LINUX]
 
 			"Page ComboBox:hover" {
 				font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
 				textcolor="trueWhite"
 
 				font-style="none"
@@ -692,8 +682,6 @@ font-size=14 [$LINUX]
 	// ***********************************************
 	   TextEntry {
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			textcolor  = "darkestGrey"
 			bgcolor  = "none"
 			selectedtextcolor  = "white"
@@ -726,8 +714,6 @@ font-size=14 [$LINUX]
 
 		"Page TextEntry" {
 				 font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			textcolor  = "darkestGrey"
 			bgcolor  = "none"
 			selectedtextcolor  = "white"
@@ -759,8 +745,6 @@ font-size=14 [$LINUX]
 
 		TextEntry:focus {
 				font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
 				textcolor  = "darkestGrey"
 				bgcolor  = "none"
 				selectedtextcolor  = "white"
@@ -793,8 +777,6 @@ font-size=14 [$LINUX]
 
 		"Page TextEntry:focus" {
 			 font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
 				textcolor  = "darkestGrey"
 				bgcolor  = "none"
 				selectedtextcolor  = "white"
@@ -828,8 +810,6 @@ font-size=14 [$LINUX]
 
 		TextEntry:disabled {
 				font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
 				textcolor  = "lightestGreyHighlight"
 				bgcolor  = "none"
 				selectedtextcolor  = "white"
@@ -864,8 +844,7 @@ font-size=14 [$LINUX]
 		// If the text box does not have focus and does not have content, a
 		// hint text property will be shown with this style. This is comment
 		// to pre-fill to box with something like 'Search' that goes away when active
-		TextEntry:empty
-		{
+		TextEntry:empty {
 			font-style=italic
 			textcolor=red
 		}
@@ -875,8 +854,6 @@ font-size=14 [$LINUX]
 		TextEntryURL
 		{
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			textcolor  = "text"
 			font-weight=400
 			bgcolor  = "none"
@@ -921,8 +898,6 @@ font-size=14 [$LINUX]
 	// ***********************************************
 			CheckButton {
 				font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
 				font-weight=400
 				textcolor="white"
 				image="graphics/chkUnselStd"
@@ -1469,8 +1444,6 @@ font-size=14 [$LINUX]
 		RadioButton
 		{
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 			textcolor  = "Label"
 			render_bg {}

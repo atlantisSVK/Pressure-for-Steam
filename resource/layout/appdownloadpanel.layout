@@ -25,8 +25,6 @@
 		links {
 			textcolor="blue"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-style=normal
 			padding-left=0
 			padding-top=0
@@ -40,25 +38,16 @@ font-size=14 [$LINUX]
 			links:hover {
 				textcolor="lightestBlue"
 				font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
 				font-style=normal
 			}
 			links:disabled {
 				textcolor="grey"
 			}
 
-		label {
-			font-size=15
-font-size=14 [$LINUX]
-		}
-
 		// For the "Auto-Updates Enabled"
 		settingslink {
 			textcolor="blue"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-style=regular
 			padding-left=0
 			padding-top=0
@@ -70,10 +59,6 @@ font-size=14 [$LINUX]
 		}
 			settingslink:hover {
 				textcolor="lightestBlue"
-				font-family=basefont
-				font-size=15
-	font-size=14 [$LINUX]
-				font-style=regular
 			}
 			settingslink:disabled {
 				textcolor="grey50"
@@ -87,16 +72,12 @@ font-size=14 [$LINUX]
 		label2 {
 			bgcolor=none
 			textcolor="lightestGrey"
-			font-size=15
-font-size=14 [$LINUX]
 			font-style="regular"
 		}
 
 		label3 {	//this looks really awkward no matter what you do, because Valve made the strings that use it all lowercase
 			bgcolor=none
 			textcolor=blue
-			font-size=15
-font-size=14 [$LINUX]
 			font-style="uppercase italic"
 		}
 
@@ -105,7 +86,6 @@ font-size=14 [$LINUX]
 			bgcolor="none"
 			textcolor="white"
 			font-family=headerfont
-			font-size="38"
 			font-outerglow-color="black"
 			font-outerglow-filtersize=3
 			font-outerglow-offset=1
@@ -117,8 +97,6 @@ font-size=14 [$LINUX]
 			bgcolor="none"
 			textcolor="orange"
 			font-family=basefont
-			font-size=16
-font-size=15 [$LINUX]
 			font-weight=600
 		}
 

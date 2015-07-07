@@ -36,15 +36,13 @@
 		{
 			textcolor="label2"
 			selectedtextcolor="label2"
-			scrollbar="0"
-			font-size=14			
+			scrollbar="0"		
 			render_bg {}
 		}
 		
 		RefundTextLinkStyle
 		{
 			textcolor="label2"
-			font-size=14
 			font-style=underline
 		}
 		

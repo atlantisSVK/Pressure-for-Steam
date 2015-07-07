@@ -31,7 +31,6 @@
 			//bgcolor=none
 			textcolor=white
 			font-family=headerfont
-			font-size=30
 			font-style="outerglow"
 			font-outerglow-color="75 75 75 255"
 			font-outerglow-offset=1
@@ -199,7 +198,6 @@
 		DetailsLaunchButton [$OSX] {
 			textcolor=white
 			font-family=headerfont
-			font-size=30
 			font-style="none"
 			padding-left=10
 			padding-right=10
@@ -250,7 +248,6 @@
 		DetailsLaunchButton [!$OSX] {
 			textcolor=white
 			font-family=headerfont
-			font-size=30
 			font-style="outerglow"
 			font-outerglow-color="97 141 21 255"
 			font-outerglow-offset=1
@@ -425,7 +422,6 @@
 		DetailsInstallButton [$OSX] {
 			textcolor=white
 			font-family=headerfont
-			font-size=30
 			font-style="none"
 			padding-left=10
 			padding-right=10
@@ -476,7 +472,6 @@
 		DetailsInstallButton [!$OSX] {
 			textcolor=white
 			font-family=headerfont
-			font-size=30
 			font-style="outerglow"
 			font-outerglow-color="11 143 176 255"
 			font-outerglow-offset=1
@@ -652,7 +647,6 @@
 		DetailsBuyButton [$OSX] {
 			textcolor=white
 			font-family=headerfont
-			font-size=30
 			font-style="none"
 			padding-left=10
 			padding-right=10
@@ -702,7 +696,6 @@
 		DetailsBuyButton [!$OSX] {
 			textcolor=white
 			font-family=headerfont
-			font-size=30
 			font-style="outerglow"
 			font-outerglow-color="85 71 0 255"
 			font-outerglow-offset=1

@@ -21,7 +21,6 @@
 		// body text inside a tooltip
 		"TooltipWindow Label" {
 			textcolor=white
-			font-size=14
 			font-style="outerglow"
 			font-outerglow-color="darkestGrey"
 			font-outerglow-offset=1
@@ -35,7 +34,6 @@
 		// headline text inside a tooltip
 	   	tooltip_headline {
 	   		textcolor=white
-	   		font-size="18"
 	   		font-family=semibold
 	   		font-style="outerglow"
 			font-outerglow-color="darkestGrey"

@@ -10,8 +10,6 @@
 		workshop_description {
 			selectedtextcolor="white"
 			textcolor="white"
-			font-size=15
-font-size=14 [$LINUX]
 			font-family=basefont
 			render_bg {}
 		}

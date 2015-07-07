@@ -21,7 +21,6 @@ gameoverlay.styles {
 
 		detailsboxtitle {
 			textcolor=white
-			font-size=28
 			font-style=regular
 		}
 	}

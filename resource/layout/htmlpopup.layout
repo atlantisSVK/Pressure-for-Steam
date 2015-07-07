@@ -4,8 +4,6 @@
 			bgcolor="none"
 			textcolor="lightestGrey"
 			font-family=basefont
-			font-size=15
-			font-size=14 [$LINUX]
 			font-weight=400
 			inset="2 -3 0 0"
 			inset="0 4 0 0" [$OSX]
@@ -34,8 +32,6 @@
 				bgcolor="none"
 				textcolor="white"
 				font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
 				font-weight=400
 				inset="2 -3 0 0"
 				inset="0 4 0 0" [$OSX]
@@ -318,8 +314,6 @@ font-size=14 [$LINUX]
 			shadowtextcolor="darkestGrey"// this is the cursor color
 			textcolor="lightestGrey"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			inset-left=4
 			inset-top=0
 			inset-right=4
@@ -341,7 +335,6 @@ font-size=14 [$LINUX]
 			//bgcolor="html.secureurl"
 			textcolor="darkclientbg"
 			font-family=basefont
-			font-size=14
 			inset-left=4
 			inset-top=-1
 			inset-right=4
@@ -355,8 +348,6 @@ font-size=14 [$LINUX]
  		}
 		URLBarSecure {
 			textcolor="green"
-			font-size=15
-font-size=14 [$LINUX]
 		}
 		URLBarBrokenSecure {
 			textcolor="Red"

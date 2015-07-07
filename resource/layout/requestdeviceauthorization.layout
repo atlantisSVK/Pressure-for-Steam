@@ -1,10 +1,5 @@
 "resource/layout/requestdeviceauthorization.layout" {
-	styles {
-		BigLable {
-			textcolor=Text
-			font-size=20
-		}
-	}
+	styles {}
 
 	layout {
 		place {

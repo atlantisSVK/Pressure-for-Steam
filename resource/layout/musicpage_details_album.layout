@@ -11,7 +11,6 @@
 		AlbumTitleStyle {
 			bgcolor=black65
 			textcolor=white
-			font-size=48
 			font-family=headerfont
 			font-weight=400
 			inset="240 20 0 0"
@@ -20,7 +19,6 @@
 		ArtistStyle {
 			bgcolor=none
 			textcolor=white
-			font-size=20
 			font-family=basefont
 			font-weight=600
 		}
@@ -28,8 +26,6 @@
 		TracksInfoStyle {
 			bgcolor=none
 			textcolor=lightestGrey
-			font-size=15
-font-size=14 [$LINUX]
 			font-family=basefont
 			font-weight=400
 			padding-left=0
@@ -41,8 +37,6 @@ font-size=14 [$LINUX]
 		TrackStyle {
 			bgcolor=black65
 			textcolor=Text2
-			font-size=15
-font-size=14 [$LINUX]
 			font-family=basefont
 			font-weight=400
 			padding-top=0
@@ -61,9 +55,6 @@ font-size=14 [$LINUX]
 
 		AdditionalActionButtonStyle {
 			textcolor=blue
-			font-size=16
-font-size=15
-font-size=14 [$LINUX]
 			font-family=basefont
 			padding-top=0
 			padding-bottom=0

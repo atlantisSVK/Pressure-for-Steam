@@ -14,8 +14,6 @@
 
 		Label {
 			font-family=basefont
-			font-size=16
-font-size=15 [$LINUX]
 			font-weight=600
 			textcolor=white
 
@@ -28,8 +26,6 @@ font-size=15 [$LINUX]
 		statuslabel {
 			font-family=basefont
 			textcolor=lightestGrey
-			font-size=15
-font-size=14 [$LINUX]
 
 			font-style="normal,regular,outerglow"
 			font-outerglow-color="darkestGrey"

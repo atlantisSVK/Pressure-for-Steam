@@ -12,11 +12,8 @@
 		bodycontent {
 			selectedtextcolor="white"
 			textcolor="white"
-			font-size=15
+
 			render_bg {}
-		}
-		"RichText url" {
-			font-size=14
 		}
 	}
 	layout {

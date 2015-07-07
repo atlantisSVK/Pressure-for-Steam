@@ -5,8 +5,6 @@
 		Notification [$OSX] {
 			bgcolor=none
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 
 			render {}
@@ -36,8 +34,6 @@ font-size=14 [$LINUX]
 	    Notification [!$OSX] {
 			bgcolor=none
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 
 			render {}

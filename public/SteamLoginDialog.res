@@ -24,12 +24,10 @@
 		}
 
 		"loginprocess_style_head" {
-			font-size=14
 			font-style=italic
 		}
 
 		"loginprocess_style_body" {
-			font-size=18
 			font-style=regular
 			font-weight=1000
 		}
@@ -41,8 +39,6 @@
 
 		TextEntry {
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			textcolor = "darkestGrey"
 			bgcolor = "none"
 			selectedtextcolor = "white"

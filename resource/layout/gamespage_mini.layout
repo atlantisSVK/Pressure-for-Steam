@@ -113,8 +113,6 @@
 		LibrarySearch [!$OSX] {
 			textcolor="darkestGrey"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 			inset-left=0
 			padding-left=4
@@ -130,8 +128,6 @@ font-size=14 [$LINUX]
 		LibrarySearch [$OSX] {
 			textcolor="darkestGrey"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 			minimum-width=150
 			render_bg {

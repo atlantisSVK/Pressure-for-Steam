@@ -20,7 +20,6 @@
 		"GameItem_Uninstalled CUILaunchButton" [$OSX] {
 			textcolor=white
 			font-family=headerfont
-			font-size=22
 			font-style="none"
 			padding-right=11
 			padding-left=11
@@ -71,7 +70,6 @@
 		"GameItem_Uninstalled CUILaunchButton" [!$OSX] {
 			textcolor=white
 			font-family=headerfont
-			font-size=20
 			font-style="outerglow"
 			font-outerglow-color="11 143 176 255"
 			font-outerglow-offset=1
@@ -253,7 +251,6 @@
 		CUILaunchButton [$OSX] {
 			textcolor=white
 			font-family=headerfont
-			font-size=22
 			font-style="none"
 			padding-right=10
 			padding-left=10
@@ -304,7 +301,6 @@
 		CUILaunchButton [!$OSX] {
 			textcolor=white
 			font-family=headerfont
-			font-size=20
 			font-style="outerglow"
 			font-outerglow-color="97 141 21 255"
 			font-outerglow-offset=1
@@ -480,7 +476,6 @@
 		CUIDetailsButton [$OSX] {
 			textcolor=white
 			font-family=headerfont
-			font-size=22
 			font-style="none"
 			padding-right=10
 			padding-left=10
@@ -527,7 +522,6 @@
 		CUIDetailsButton [!$OSX] {
 			textcolor=white
 			font-family=headerfont
-			font-size=20
 			font-style="outerglow"
 			font-outerglow-color="41 41 41 255"
 			font-outerglow-offset=1

@@ -53,7 +53,6 @@
 		}
 		publishcaption {
 			textcolor="white"
-			font-size=17
 			font-style="italic"
 			inset=2
 		}
@@ -74,8 +73,6 @@
 		}
 
 		gameselector {
-			font-size=15
-font-size=14 [$LINUX]
 			font-family=basefont
 			font-weight=700
 			inset="6 0 0 0"
@@ -89,19 +86,14 @@ font-size=14 [$LINUX]
 			minimum-height=75
 		}
 		LargeSelectionCount {
-			font-size=60
 			font-family=basefont
 			font-weight=700
 		}
 		NoSelectionTitle {
-			font-size=24
 			font-family=basefont
 			font-weight=400
 		}
 		NoSelectionInstructions {
-			font-size=16
-font-size=15
-font-size=14 [$LINUX]
 			font-family=basefont
 		}
 
@@ -112,8 +104,6 @@ font-size=14 [$LINUX]
 			shadowtextcolor= "darkestGrey"// this is the cursor color
 			textcolor= "darkestGrey"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			padding-left=14
 			inset-left=0
 			inset-top=0

@@ -2,30 +2,22 @@
 	styles {
 		sidemenu {
 			textcolor=texthover
-			font-size=15
-font-size=14 [$LINUX]
 		}
 			sidemenu:hover {
 				textcolor=text
-				font-size=15
-font-size=14 [$LINUX]
 			}
 		topbar {
 			textcolor=white
 			font-family=headerfont
-			font-size=48
 			render_bg {}
 		}
 		clocksuffix {
 			textcolor=white
 			font-family=headerfont
-			font-size=48
 			render_bg {}
 		}
 		timeStrings {
 			textcolor=lightestGrey
-			font-size=15
-			font-size=14 [$LINUX]
 			font-family=basefont
 		}
 	}

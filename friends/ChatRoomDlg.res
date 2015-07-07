@@ -51,8 +51,6 @@ font-size=14 [$LINUX]
 			shadowtextcolor=darkestGrey
 			textcolor=darkestGrey
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			inset-left=4
 			inset-top=6
 			inset-right=6
@@ -280,14 +278,10 @@ font-size=14 [$LINUX]
 			selectedbgcolor="blue"
 			selectedtextcolor="trueWhite"
 			textcolor="ChatDialog.HistoryColor"
-			font-size=15
-font-size=14 [$LINUX]
 			inset="0 8 0 0"
 
 			render {}
 		}
-
-		"RichText url" {}
 
 		textentryfocus_chat {
 			inset="10 10 0 0"
@@ -341,8 +335,6 @@ font-size=14 [$LINUX]
 		CFriendsListSectionHeader [$OSX] {
 			textcolor=White
 			font-family=basefont
-font-size=15
-font-size=14 [$LINUX]
 			font-style="outerglow"
 			font-outerglow-color="darkestGrey"
 			font-outerglow-offset=1
@@ -359,9 +351,6 @@ font-size=14 [$LINUX]
 
 			textcolor=White
 			font-family=basefont
-			font-size=16
-font-size=15
-font-size=14 [$LINUX]
 			font-style="outerglow"
 			font-outerglow-color="darkestGrey"
 			font-outerglow-offset=1

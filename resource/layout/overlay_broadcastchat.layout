@@ -26,20 +26,12 @@
 			}
 		}
 
-
-		label {
-			font-size=15
-font-size=14 [$LINUX]
-		}
-
 		controlbutton {
 			minimum-width=120
 		}
 
 		Textentryfocus_chat {
 		    font-family=basefont
-		    font-size=15
-font-size=14 [$LINUX]
 		    textcolor  = "darkestGrey"
 		    bgcolor  = "none"
 		    selectedtextcolor  = "white"
@@ -88,7 +80,6 @@ font-size=14 [$LINUX]
 			}
 
 		EmoticonMenuItemStyle {
-			font-size=24
 			inset="-9 0 0 0"
 		}
 
@@ -98,12 +89,6 @@ font-size=14 [$LINUX]
 
 		EmoticonMenuItemStyle:selected {
 			textcolor=white
-		}
-
-		GridMenu {
-			font-size=16
-font-size=15
-font-size=14 [$LINUX]
 		}
 	}
 

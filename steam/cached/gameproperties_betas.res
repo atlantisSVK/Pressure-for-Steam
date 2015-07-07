@@ -4,8 +4,6 @@
 			bgcolor=none
 			textcolor="white"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-style="none"
 			inset="3 0 0 0"
 			render_bg {
@@ -65,8 +63,6 @@ font-size=14 [$LINUX]
 	    	bgcolor=none
 	    	textcolor="trueWhite"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-style="none"
 			render_bg {
 		        0 = "gradient( x0 + 1, y0 + 1, x1 - 1, y1 - 1, greyHighlight, grey )" // Background Gradient

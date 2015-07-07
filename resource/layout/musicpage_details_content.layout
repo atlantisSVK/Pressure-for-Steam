@@ -9,7 +9,6 @@
 			bgcolor="none"
 			textcolor="red"
 			font-family=basefont
-			font-size=14
 			font-weight=400
 			render_bg{}
 		}
@@ -19,14 +18,14 @@
 		}
 
 		EmptyDatabaseText {
-			textcolor="Text"
-			font-size="15"
+			textcolor="red"
+
 			render_bg {}
 		}
 
 		CrawlingText {
 			textcolor="white"
-			font-size="15"
+
 			render_bg {}
 		}
 
@@ -42,8 +41,6 @@
 		// Some overrides for our listpanel
 		"MusicPage_Details_Content ListPanel" {
 			bgcolor="darkestGrey"
-			font-size=15
-font-size=14 [$LINUX]
 			padding-left=4
 			padding-right=2
 			minimum-width=320
@@ -76,7 +73,6 @@ font-size=14 [$LINUX]
 		}
 		"MusicPage_Details_Content ListPanelColumnHeader" [!$OSX] {
 			bgcolor="none"
-			font-size=14
 			inset="2 2 0 0"
 			minimum-height=0
 			render {}
@@ -85,8 +81,6 @@ font-size=14 [$LINUX]
 
 		"MusicPage_Details_Content ListPanelColumnHeader" [$OSX] {
 			bgcolor="none"
-			font-size=15
-font-size=14 [$LINUX]
 			inset="2 2 0 0"
 
 			render {}

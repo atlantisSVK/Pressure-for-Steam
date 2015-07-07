@@ -2,8 +2,6 @@
 	styles {
 		taskbar {
 			textcolor=blue
-			font-size=15
-font-size=14 [$LINUX]
 			font-family=basefont
 			font-style=none
 			padding-right=20

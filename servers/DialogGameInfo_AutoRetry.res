@@ -7,18 +7,15 @@
 
 		LabelDull {
 			textcolor=white
-			font-size=20
 			font-family=headerfont
 		}
 
 		label {
 			textcolor=lightestGrey
-			font-size=14
 		}
 
 		textEntry {
 			textcolor=lightestGrey
-			font-size=14
 			inset-left=0
 
 			render {}

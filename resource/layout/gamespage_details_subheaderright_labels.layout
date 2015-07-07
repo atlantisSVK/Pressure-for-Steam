@@ -5,8 +5,6 @@
 	styles {
 		headertext {
 			textcolor=Text
-			font-size=16
-font-size=14 [$LINUX]
 			font-style=uppercase;
 			padding-left=0
 			padding-bottom=1
@@ -15,8 +13,6 @@ font-size=14 [$LINUX]
 
 		headertext2 {
 			textcolor=contributiontext
-			font-size=16
-font-size=14 [$LINUX]
 			font-style=uppercase;
 			padding-left=0
 			padding-bottom=1

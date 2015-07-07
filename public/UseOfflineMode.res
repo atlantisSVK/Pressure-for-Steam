@@ -16,11 +16,6 @@
 			textcolor=red
 			font-size=24
 		}
-
-		"URLLabel" {
-			font-size=15
-font-size=14 [$LINUX]
-		}
 	}
 	layout {
 		place {

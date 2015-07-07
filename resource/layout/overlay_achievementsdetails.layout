@@ -7,8 +7,6 @@
 
 		button {
 			textcolor=blue
-			font-size=15
-font-size=14 [$LINUX]
 			font-family=basefont
 			padding=0
 
@@ -30,7 +28,6 @@ font-size=14 [$LINUX]
 		highlight {
 			textcolor=white
 			font-family=headerfont
-			font-size=30
 
 			render_bg {
 

@@ -12,7 +12,6 @@
 
 		throttleLabel {
 			bgcolor=none
-			font-size="13"
 			textcolor="white"
 			padding-top="0"
 			font-style="outerglow,regular"
@@ -23,7 +22,6 @@
 
 		throttleValue {
 			bgcolor=none
-			font-size="13"
 			textcolor="orange"
 			padding-top="0"
 			font-style="outerglow,uppercase"
@@ -41,7 +39,6 @@
 
 		bigtext {
 			font-family=basefont
-			font-size=18
 			font-style="outerglow,regular"
 			font-outerglow-color="darkestGrey"
 			font-outerglow-offset=1
@@ -52,7 +49,6 @@
 
 		bigtextlabel {
 			font-family=basefont
-			font-size=18
 			font-style="outerglow,regular"
 			font-outerglow-color="darkestGrey"
 			font-outerglow-offset=1
@@ -60,18 +56,9 @@
 			textcolor="lightestGrey"
 		}
 
-		bigtextHeader {
-			font-family=basefont
-			font-size=18
-			textcolor="red"
-		}
+		bigtextHeader {}
 
-		bigTextNumbers {
-			font-family=basefont
-			font-size="17"
-			textcolor="green"
-			font-style="regular"
-		}
+		bigTextNumbers {}
 
 		PauseButton [$OSX] {
 			inset="25 7 0 0"

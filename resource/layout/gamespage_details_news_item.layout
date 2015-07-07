@@ -13,45 +13,26 @@
 		title_label {
 			textcolor="white"
 			font-family=basefont
-			font-size=20
 			padding-top=20
 			font-weight=600
 		}
 		date_and_author {
 			textcolor="LightestGreyhighlight"
-			font-size=15
-font-size=14 [$LINUX]
 		}
 		newsitem_body {
 			selectedtextcolor="trueWhite"
 			textcolor="white"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
+
 			render_bg {}
 		}
 
-		newsitem_body [$LINUX] {
-			selectedtextcolor="trueWhite"
-			textcolor="white"
-			font-family=basefont
-			font-size=14
-			render_bg {}
-		}
 		"newsitem_body url" {
 			selectedtextcolor="blue"
 			textcolor=blue
-			font-size=15
-font-size=14 [$LINUX]
 			font-style="underline"
 		}
 
-		"newsitem_body url" [$LINUX] {
-			selectedtextcolor="blue"
-			textcolor=blue
-			font-size=14
-			font-style="underline"
-		}
 			"newsitem_body url:hover" {
 				textcolor="lightestBlue"
 			}
@@ -66,8 +47,6 @@ font-size=14 [$LINUX]
 			selectedtextcolor="blue"
 			textcolor="blue"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-style="none"
 			font-weight=400
 		}

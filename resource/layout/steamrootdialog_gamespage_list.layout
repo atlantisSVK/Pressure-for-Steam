@@ -59,8 +59,6 @@
 			bgcolor="none"
 			textcolor="white"
 			font-family=semibold
-			font-size=15
-			font-size=14 [$LINUX]
 			font-weight=400
 			font-style="regular,normal"
 			inset="1 2 0 0"
@@ -75,8 +73,6 @@
 			bgcolor="none"
 			textcolor="white"
 			font-family=semibold
-			font-size=15
-			font-size=14 [$LINUX]
 			font-weight=400
 			font-style="regular,normal"
 			inset="-2 3 0 0"

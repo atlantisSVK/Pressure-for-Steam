@@ -4,8 +4,6 @@
 			bgcolor=none
 			textcolor="white"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-style="none"
 			inset="3 0 0 0"
 			render_bg {
@@ -57,8 +55,6 @@ font-size=14 [$LINUX]
 			bgcolor=none
 			textcolor="trueWhite"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-style="none"
 			render_bg {
 				// background fill

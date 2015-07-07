@@ -4,8 +4,6 @@
 		LabelEVCert [!$OSX] {
 			textcolor="darkestGrey"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 			inset-left=4
 			inset-top=0
@@ -24,8 +22,6 @@ font-size=14 [$LINUX]
 			bgcolor="none"
 			textcolor="none"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 			inset-left=3
 			inset-top=3
@@ -45,23 +41,9 @@ font-size=14 [$LINUX]
 			textcolor="red"
 		}
 
-		// Doesn't appear to be used for anything:
-		headertextlarge {
-			bgcolor=green
-			textcolor=green
-			font-size=30
-			font-weight=400
-			padding-left=10
-			padding-top=5
-			padding-right=10
-			padding-bottom=5
-			minimum-width=200
-		}
 		LibraryShow [!$OSX] {
 			textcolor="LabelDisabled"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 			font-style=uppercase
 			padding-left=0
@@ -71,8 +53,6 @@ font-size=14 [$LINUX]
 		NavLabel {
 			textcolor="Label"
 			font-family=basefont
-			font-size=15
-			font-size=14 [$LINUX]
 			font-weight=400
 			font-style=none
 		}
@@ -80,8 +60,6 @@ font-size=14 [$LINUX]
 		NavLabelView {
 			textcolor="red"
 			font-family=basefont
-			font-size=15
-			font-size=14 [$LINUX]
 			font-weight=400
 			font-style="none"
 			padding-left=0
@@ -91,8 +69,6 @@ font-size=14 [$LINUX]
 			bgcolor="none"
 			textcolor="green"
 			font-family=basefont
-			font-size=15
-			font-size=14 [$LINUX]
 			font-weight=400
 			font-style="none"
 			padding-left=5
@@ -223,8 +199,6 @@ font-size=14 [$LINUX]
 			shadowtextcolor="darkestGrey"  // this is the cursor color
 			textcolor="grey"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 			inset-left=0
 			inset-top=0
@@ -250,8 +224,6 @@ font-size=14 [$LINUX]
 			shadowtextcolor="darkestGrey"  // this is the cursor color
 			textcolor="lightestGrey"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			inset-left=4
 			inset-top=-1
 
@@ -274,8 +246,6 @@ font-size=14 [$LINUX]
 			shadowtextcolor="darkestGrey"  // this is the cursor color
 			textcolor="lightestGrey"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			inset-left=4
 			inset-top=0
 
@@ -619,8 +589,6 @@ font-size=14 [$LINUX]
 		NavLabel2 {
 			textcolor="white"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-style="outerglow"
 			font-outerglow-color="darkGreyEnd"
 			font-outerglow-offset=1
@@ -848,8 +816,6 @@ font-size=14 [$LINUX]
 		LibrarySearch [!$OSX] {
 			textcolor="darkestGrey"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 			padding-left=4
 			padding-right=20
@@ -864,8 +830,6 @@ font-size=14 [$LINUX]
 		LibrarySearch [$OSX] {
 			textcolor="darkestGrey"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 			minimum-width=150
 
@@ -1475,7 +1439,6 @@ font-size=14 [$LINUX]
 		CUINavButton [$OSX] {
 			bgcolor="none"
 			font-family=headerfont
-			font-size=36
 			padding-left=10
 			padding-right=10
 		}
@@ -1483,7 +1446,6 @@ font-size=14 [$LINUX]
 		CUINavButton [!$OSX] {
 			bgcolor="none"
 			font-family=headerfont
-			font-size=36
 			inset="0 -4 0 0"
 			padding-left=10
 			padding-right=10
@@ -1530,8 +1492,6 @@ font-size=14 [$LINUX]
 				selectedtextcolor=red
 				textcolor=white
 				font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
 				font-style="outerglow"
 				font-outerglow-color="darkestGrey"
 				font-outerglow-offset=1
@@ -1566,8 +1526,6 @@ font-size=14 [$LINUX]
 // ********************************************************************************************************
 		MenuButton {
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			textcolor="white"
 			padding-right=18
 			minimum-width=120
@@ -1637,8 +1595,6 @@ font-size=14 [$LINUX]
 		}
 			MenuButton:hover {
 				font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
 				textcolor="trueWhite"
 
 				font-style="none"
@@ -1703,8 +1659,6 @@ font-size=14 [$LINUX]
 			}
 		MenuButton:focus {
 				font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
 				textcolor="trueWhite"
 
 				font-style="none"
@@ -1769,8 +1723,6 @@ font-size=14 [$LINUX]
 			}
 		MusicAddButton {
 			textcolor="labelfocus"
-			font-size=15
-font-size=14 [$LINUX]
 			font-family=basefont
 			font-style=uppercase
 			render {

@@ -19,19 +19,14 @@
 		// Literally the label that says "Most Recent"
 		mostrecent_label {
 			textcolor="lightestGreyhighlight"
-			font-size=15
-			font-size=14 [$LINUX]
 		}
 
 		mostrecent_name {
 			textcolor="lightestYellow"
-			font-size=20
 			font-weight=bold
 		}
 		mostrecent_unlockedsofar {
 			textcolor=white
-			font-size=15
-			font-size=14 [$LINUX]
 		}
 		progressbackground {
 			bgcolor=none

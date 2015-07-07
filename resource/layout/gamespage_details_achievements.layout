@@ -31,8 +31,6 @@
 		// The label for "You've unlocked everything!"
 		everythinglabel {
 			textcolor="white"
-			font-size=15
-			font-size=14 [$LINUX]
 		}
 	}
 	layout {

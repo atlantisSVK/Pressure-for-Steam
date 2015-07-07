@@ -8,7 +8,6 @@
 		topbar {
 			textcolor=white
 			font-family=headerfont
-			font-size=48
 		}
 		OverlayURLLabel {
 			image=graphics/overlay/close

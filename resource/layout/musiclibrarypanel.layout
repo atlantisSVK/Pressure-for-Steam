@@ -14,8 +14,6 @@
 		LibrarySearch {
 			textcolor="darkestGrey"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 			inset-left=0
 			padding-left=4
@@ -71,8 +69,6 @@ font-size=14 [$LINUX]
 		MusicAddButton {
 			textcolor="labelfocus"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-style=normal
 			render_bg {
 				0="image( x0, y0 + 5, x1, y1, graphics/icon_collapse )"
@@ -120,7 +116,6 @@ font-size=14 [$LINUX]
 		NavLabel2 [!$OSX] {
 			textcolor="labelfocus"
 			font-family=basefont
-			font-size=14
 			font-weight=400
 			font-style="uppercase"
 			inset="0 2 0 0"
@@ -128,8 +123,6 @@ font-size=14 [$LINUX]
 		NavLabel2 [$OSX] {
 			textcolor="labelfocus"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 			font-style="uppercase"
 			inset="0 2 0 0"

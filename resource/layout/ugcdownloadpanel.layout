@@ -31,8 +31,6 @@
 		links {
 			textcolor="blue"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-style=normal
 			padding-left=0
 			padding-top=0
@@ -46,8 +44,6 @@ font-size=14 [$LINUX]
 			links:hover {
 				textcolor="lightestBlue"
 				font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
 				font-style=normal
 			}
 			links:disabled {
@@ -62,8 +58,6 @@ font-size=14 [$LINUX]
 		label2 {
 			bgcolor=none
 			textcolor="lightestGrey"
-			font-size=15
-font-size=14 [$LINUX]
 			font-style="regular"
 		}
 
@@ -72,7 +66,6 @@ font-size=14 [$LINUX]
 			bgcolor="none"
 			textcolor="white"
 			font-family=headerfont
-			font-size="38"
 			font-outerglow-color="black"
 			font-outerglow-filtersize=3
 			font-outerglow-offset=1
@@ -84,8 +77,6 @@ font-size=14 [$LINUX]
 			bgcolor="none"
 			textcolor="orange"
 			font-family=basefont
-			font-size=16
-font-size=15 [$LINUX]
 			font-weight=600
 		}
 		
@@ -111,16 +102,12 @@ font-size=15 [$LINUX]
 
 		graphdownloadrate {
 			font-family=basefont
-			font-size="14"
 			font-style="normal,regular"
 			textcolor=orange
 		}
 
 		SmPauseButton {
 			font-family=basefont
-			font-size=16
-font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 			textcolor="none"
 			bgcolor=none
@@ -131,9 +118,6 @@ font-size=14 [$LINUX]
 
 		SmResumeButton {
 			font-family=basefont
-			font-size=16
-font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 			textcolor="none"
 			bgcolor=none

@@ -2,8 +2,6 @@
 	styles {
 		Label {
 			textcolor="White"
-			font-size=15
-font-size=14 [$LINUX]
 		}
 		BackButtonSm {
 			bgcolor="none"
@@ -267,8 +265,6 @@ font-size=14 [$LINUX]
 			}
 		TextEntryURL {
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			textcolor= "grey"
 			bgcolor= "none"
 			selectedtextcolor= "white"
@@ -290,8 +286,6 @@ font-size=14 [$LINUX]
 		}
 			TextEntryURL:hover {
 				font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
 				textcolor= "grey"
 				bgcolor= "none"
 				selectedtextcolor= "white"
@@ -314,8 +308,6 @@ font-size=14 [$LINUX]
 			}
 			TextEntryURL:focus {
 				font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
 				textcolor= "grey"
 				bgcolor= "none"
 				selectedtextcolor= "white"
@@ -343,8 +335,6 @@ font-size=14 [$LINUX]
 				shadowtextcolor= "darkestGrey"// this is the cursor color
 				textcolor="lightestGreyHighlight"
 				font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
 				inset-left=4
 				inset-top=0
 				render_bg {
@@ -362,8 +352,6 @@ font-size=14 [$LINUX]
 		LabelEVCert {
 			textcolor="darkestGrey"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 			render {}
 			render_bg {}
@@ -377,8 +365,6 @@ font-size=14 [$LINUX]
  		}
 		URLBarSecure {
 			textcolor="darkestGrey"
-			font-size=15
-font-size=14 [$LINUX]
 			render_bg {
 				0="fill(x0,y0+2,x1-2,y1-2, green)"
 				// TOP
@@ -393,8 +379,6 @@ font-size=14 [$LINUX]
 		}
 		URLBarBrokenSecure {
 			textcolor="darkestGrey"
-			font-size=15
-font-size=14 [$LINUX]
 			render_bg {
 				0="fill(x0,y0+2,x1-2,y1-2, red)"
 				// TOP

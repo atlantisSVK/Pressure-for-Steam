@@ -1,0 +1,1062 @@
+"includes/tweaks/fontsize/standard.styles" {
+	styles {
+		
+		// This is the text when there's no items in the list in Library.
+		emptylisttext {
+			font-size=14
+			font-size=13 [$LINUX]
+			font-size=15 [$OSX]
+		}
+		
+		// musicpage_details_album.layout
+		AlbumTitleStyle {
+			font-size=48
+		}
+
+		ArtistStyle {
+			font-size=20
+		}
+
+		TracksInfoStyle {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		AdditionalActionButtonStyle {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		// The input for the Search in libraries.
+		LibrarySearch {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		highlight {
+			font-size=30
+		}
+
+		ClientTitle {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		achievementlabelmore {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		communityfile_name {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		RefundTextStyle {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		RefundTextLinkStyle {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		hotkey {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		sidemenu {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		topbar {
+			font-size=48
+		}
+
+		taskbar {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		clocksuffix {
+			font-size=48
+		}
+
+		timeStrings {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		NavLabel {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		NavLabel2 {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		NavLabelView {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		LibraryShow [!$OSX] {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		// Game Title Text
+		headertextlarge {
+			font-size=48
+		}
+
+		// overlay_broadcastchat.layout
+		Textentryfocus_chat {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		EmoticonMenuItemStyle {
+			font-size=24
+		}
+
+		GridMenu {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		// Subheader
+		headertext {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		headertext-red {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		headertext-green {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		headertext-blue {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		valuetext {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		// Game Hub
+		headertext2 {
+			font-size=16
+		}
+		
+		// Achievements
+		mostrecent_label {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		mostrecent_name {
+			font-size=20
+		}
+		
+		mostrecent_unlockedsofar {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		everythinglabel {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		// News
+		title_label {
+			font-size=20
+		}
+		
+		date_and_author {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		URLBarBrokenSecure {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		newsitem_body {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		"newsitem_body url" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		more_link {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		// "Welcome" & Non-Steam
+		bodycontent {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		"RichText url" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		// -- Music Pages
+		// ==============
+		EmptyDatabaseText {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		CrawlingText {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		"MusicPage_Details_Content ListPanel" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		"MusicPage_Details_Content ListPanelColumnHeader" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		PositionLabelStyle {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		TrackLabelStyle {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		TracksInfoLabelStyle {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		TrackStyle {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		PlaylistTitleStyle {
+			font-size=48
+		}
+		
+		AdditionalActionButtonStyle {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		ActionButtonStyle {
+			font-size=30
+		}
+		
+		MusicListPanelInterior {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+    	}
+		
+		StatusStyle {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		StatusStyleDim {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		InfoLabelStyle {
+			font-size=14
+			font-size=13 [$LINUX]
+			font-size=15 [$OSX]
+		}
+
+		workshop_description {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		infolabel {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		friendlabelmore {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		screenshotslabelmore {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		DetailsButton {
+			font-size=30
+		}
+
+		DetailsLaunchButton {
+			font-size=30
+		}
+
+		DetailsInstallButton {
+			font-size=30
+		}
+
+		DetailsBuyButton {
+			font-size=30
+		}
+
+		"CGridItemChrome GameItem_Uninstalled CUILaunchButton" {
+			font-size=22
+		}
+
+		"CGridItemChrome CUILaunchButton" {
+			font-size=22
+		}
+
+		"CGridItemChrome CUIDetailsButton" {
+			font-size=22
+		}
+
+		GamesGridPlaceholder {
+			font-size=28
+		}
+
+		// News Updates Dialog
+		"CProductMarketingDialog Button" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		CFriendsListSectionAffordance {     
+			font-size=14
+			font-size=13 [$LINUX]
+			font-size=15 [$OSX]
+		}
+		
+		CFriendsListSectionHeader {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		CFriendPanel {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		CheckButton {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		ComboBox {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		FrameTitle {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		FriendsList {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		// Sets the base label size.
+		Label {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		ListPanel {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+			"Page ListPanel" {
+				font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+			}
+		
+		"CGamesListPanel" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		// Test Testing this.
+		"GameColumn_BigText" {
+			font-size=17 // Do not modify.
+		}
+		
+		ListPanelCheckBox {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		"ListPanelColumnheader ListPanelCheckBox" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		ListPanelColumnheader {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+				
+		ListPanelInterior {     
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		"Page ListPanelInterior" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		"ListPanel RichText" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		"ListPanel RichText url" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		MainNav {
+			font-size=21
+		}
+		
+		MenuButton {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		MenuItem {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		Notification {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		PageTab {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		"PageDragFrame PageTab" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		Panel { 
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		RadioButton {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		RichText {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+			"RichText url" {
+				font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+			}
+		
+			"RichText bold" {
+				font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+			}
+			
+			"RichText emphasis" {
+				font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+			}
+
+		bold {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		text {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		"CFriendPanel RichText URL" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		SectionedListPanel {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		Slider {
+			font-size=11
+		}
+		
+		StatusLabel {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		StatusLabelDim {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		detailsboxtitle {
+			font-size=28
+		}
+
+		TextEntry {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		"Page TextEntry" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		"CSteamRootDialog TextEntryURL" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		// Test Testing
+		TextEntryLarge {
+			font-size=90
+		}
+		
+		TextEntryURL {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		ToggleButton {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		"Page ToggleButton" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		tooltip_headline {
+			font-size=18
+		}
+
+		"TooltipWindow Label" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		TreeNodeText {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		URLLabel {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		URLLabelSimple {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		ListPanelStyle {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		"CChatTitlePanel Label" {
+			font-size=16
+		}
+
+		links {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		BigLable {
+			font-size=20
+		}
+
+		intro {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		publishcaption {
+			font-size=17
+		}
+
+		support_alert {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		online_friends {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		rightcolumnlink {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		graphdownloadrate {
+			font-size=14
+			font-size=13 [$LINUX]
+			font-size=15 [$OSX]
+		}
+
+		SmPauseButton {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		SmResumeButton {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		rightcolumntag {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		inboxmenuitem {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		inbox_button {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		inbox_button_active {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		gameselector {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		SettingsList {
+			font-size=18
+		}
+
+		LargeSelectionCount {
+			font-size=60
+		}
+
+		NoSelectionTitle {
+			font-size=24
+		}
+
+		NoSelectionInstructions {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		CScreenshotCaptionEntry {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+
+		// Used in appdownloadpanel.layout
+		settingslink {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		ModuleHeading {
+			font-size=38
+		}
+
+		ModuleHeading2 {
+			font-size=16
+		}
+
+		label2 {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		label3 {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+
+		// downloadsummarypanel.layout
+		throttleLabel {
+			font-size=13
+		}
+
+		throttleValue {
+			font-size=13
+		}
+
+		bigtext {
+			font-size=18
+		}
+
+		bigtextlabel {
+			font-size=18
+		}
+
+
+		// friendpanel.layout
+		namestyle {
+			font-size=16
+		}
+
+		nameInstanceStyle {
+			font-size=14
+			font-size=13 [$LINUX]
+			font-size=15 [$OSX]
+		}
+
+		controlPanelLinkStyle {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		statusStyle {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		// emailreminderbar.layout
+		soft {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		bright {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		 
+		CConsoleHistory {
+			font-size=10 // Lucida Console
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX] [$OSX] // Menlo
+		}
+
+		console_text_error {
+			font-size=10 // Lucida Console
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX] [$OSX] // Menlo
+		}
+
+		console_text {
+			font-size=10 // Lucida Console
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX] [$OSX] // Menlo
+		}
+
+		WrapPanel {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		"html-findbar" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		html-imebar {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+		
+		gamedetails-headerlabel {
+			font-size=36
+		}
+		
+		gamedetails-headerlabel-red {
+			font-size=36
+		}
+		
+		gamedetails-headerlabel-green {
+			font-size=36
+		}
+		
+		gamedetails-headerlabel-blue {
+			font-size=36
+		}
+
+		AddFriendsButton {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		FriendsSearch {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		"CFriendsDialog SectionedListPanelInterior" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		Chat_MenuButton_withChrome {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		FriendsTitle [$OSX] {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+
+		Button {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		"Page Button" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		ComboBox {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		"Page ComboBox" {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		LabelEVCert {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		CUINavButton {
+			font-size=36
+		}
+
+		CUINavButton2 {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		SuperNavMenuItem {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		loginprocess_style_head {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		loginprocess_style_body {
+			font-size=18
+		}
+
+		URLBarSecure {
+			font-size=15
+			font-size=14 [$LINUX]
+			font-size=16 [$OSX]
+		}
+
+		LabelDull {
+			font-size=20
+		}
+	}
+}

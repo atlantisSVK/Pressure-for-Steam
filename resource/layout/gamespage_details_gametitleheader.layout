@@ -8,7 +8,6 @@
 			bgcolor=none
 			textcolor=white
 			font-family=headerfont
-			font-size=48
 		}
 	}
 	layout {

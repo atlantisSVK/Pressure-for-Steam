@@ -2,7 +2,6 @@
 	styles {
 		BigLable {
 			textcolor=Text
-			font-size=20
 		}
 	}
 

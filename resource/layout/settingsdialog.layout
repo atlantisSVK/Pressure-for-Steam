@@ -35,7 +35,6 @@
 		}
 		"SettingsList" {
 			bgcolor=darkestGrey
-			font-size=18
 			padding=6
 			inset="-4 -14 0 0"
 			minimum-width="200"
@@ -53,7 +52,6 @@
 		ListPanelInterior {
 			bgcolor="none"
 			textcolor="white"
-			font-size=14
 			inset="3 0 0 0"
 	   		render {}
 			render_bg {}

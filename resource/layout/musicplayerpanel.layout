@@ -45,8 +45,6 @@
 			selectedbgcolor="blue"
 			selectedtextcolor="truewhite"
 			textcolor="white"
-			font-size=15
-font-size=14 [$LINUX]
 			padding="6"
 			inset="-3 -1 -2 0"
 
@@ -68,8 +66,6 @@ font-size=14 [$LINUX]
 			selectedbgcolor="blue"
 			selectedtextcolor="truewhite"
 			textcolor="white"
-			font-size=15
-font-size=14 [$LINUX]
 			inset="0 0 0 -10"
 			render {
 				//line at top
@@ -94,8 +90,6 @@ font-size=14 [$LINUX]
 			bgcolor="none"
 			textcolor="textdisabled"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 	  		font-weight=400
 	  		inset="0 6 0 0"
 		}
@@ -103,8 +97,6 @@ font-size=14 [$LINUX]
 				bgcolor="none"
 				textcolor="texthover"
 				font-family=basefont
-   				font-size=15
-font-size=14 [$LINUX]
    				font-weight=400
    				inset="0 6 0 0"
 			}
@@ -321,8 +313,6 @@ font-size=14 [$LINUX]
 		StatusStyle	{
 			textcolor="white"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=600
 			render_bg {}
 		}
@@ -330,8 +320,6 @@ font-size=14 [$LINUX]
 		StatusStyleDim	{
 			textcolor="White"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-style=normal
 			render_bg {}
 		}
@@ -339,7 +327,6 @@ font-size=14 [$LINUX]
 		InfoLabelStyle	{
 			textcolor="White"
 			font-family=basefont
-			font-size=14
 
 			render_bg {}
 		}

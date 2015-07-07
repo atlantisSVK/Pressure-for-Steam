@@ -13,8 +13,6 @@
 
 		namestyle {
 			font-family=basefont
-			font-size=16
-font-size=15 [$LINUX]
 			font-weight=600
 			inset-top=-1
 			//font-style="outerglow"
@@ -32,7 +30,6 @@ font-size=15 [$LINUX]
 		nameInstanceStyle {
 			textcolor="lightestGrey"
 			font-family=basefont
-			font-size=14
 		}
 
 		menuButtonStyle {
@@ -49,19 +46,11 @@ font-size=15 [$LINUX]
 
 		controlPanelLinkStyle {
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 		}
-			controlPanelLinkStyle:hover {
-				font-family=basefont
-				font-size=15
-font-size=14 [$LINUX]
-			}
+			controlPanelLinkStyle:hover {}
 
 		statusStyle {
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 		}
 
 		inviteLinkStyle {

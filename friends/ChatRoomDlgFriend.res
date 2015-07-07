@@ -48,8 +48,6 @@
 			bgcolor=none
 			textcolor=darkestGrey
 			font-family=basefont
-			font-size=15
-			font-size=12 [$LINUX]
 			inset-left=4
 			inset-top=6
 			inset-right=6
@@ -277,14 +275,10 @@
 			selectedbgcolor="blue"
 			selectedtextcolor="trueWhite"
 			textcolor="ChatDialog.HistoryColor"
-			font-size=15
-			font-size=14 [$LINUX]
 			inset="0 8 0 0"
 
 			render {}
 		}
-
-		"RichText url" {}
 
 		// The styling for the Text Entry
 		textentryfocus_chat {

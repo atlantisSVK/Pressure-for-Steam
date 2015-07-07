@@ -12,6 +12,7 @@ steam.styles {
  	//include "includes/window_controls.styles"
  	include [$OSX] "includes/osxframebuttons.styles"
  	include [!$OSX] "includes/windowsframebuttons.styles"
+ 	include "includes/tweaks/fontsize/standard.styles"
 
 colors {
 	// Friends List colors (Having them in an include seems to break it)
@@ -274,8 +275,6 @@ styles {
 		bgcolor="none"
 		font-family=semibold
 		textcolor="lightestGrey"
-		font-size=15
-font-size=14 [$LINUX]
 		font-weight=400
 		padding-left="0"
 		padding-right="64"
@@ -309,8 +308,6 @@ font-size=14 [$LINUX]
 			bgcolor="none"
 			textcolor="white"
 			font-family=semibold
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 			inset="2 -5 0 0"
 			inset="0 4 0 0" [$OSX]
@@ -373,8 +370,6 @@ font-size=14 [$LINUX]
 		selectedtextcolor="truewhite"
 		textcolor="white"
 		font-family=basefont
-		font-size=15
-font-size=14 [$LINUX]
 		font-weight=400
 	}
 
@@ -383,7 +378,6 @@ font-size=14 [$LINUX]
 	"GameColumn_BigText" {
 		textcolor="green"
 		font-family=basefont
-		font-size=17
 		font-weight=700
 	}
 
@@ -392,7 +386,6 @@ font-size=14 [$LINUX]
 		selectedtextcolor="trueWhite"
 		textcolor="Label"
 		font-family=basefont
-		font-size=21
 		font-weight=700
 		font-style="uppercase"
 	}
@@ -454,8 +447,6 @@ font-size=14 [$LINUX]
 		bgcolor="none"
 		textcolor="scrollglyph"
 		font-family=basefont
-		font-size=15
-font-size=14 [$LINUX]
 		font-weight=400
 
 		render_bg {}
@@ -476,8 +467,6 @@ font-size=14 [$LINUX]
 	MenuItem {
 		font-family=basefont
 		textcolor  = white
-		font-size=15
-font-size=14 [$LINUX]
 		inset="0 0 0 0"
 		padding=0
 		bgcolor="none"
@@ -803,8 +792,6 @@ font-size=14 [$LINUX]
 		bgcolor=none
 		textcolor="lightestGrey"
 		font-family=basefont
-		font-size=15
-font-size=14 [$LINUX]
 		font-style="normal"
 		font-weight=400
 		inset="0 0 0 0"
@@ -852,8 +839,6 @@ font-size=14 [$LINUX]
 		textcolor="Texthover"
 	}
 	"PageDragFrame PageTab" {
-		font-size=15
-font-size=14 [$LINUX]
 		font-style="normal"
 		font-style="none"
 	}
@@ -861,8 +846,6 @@ font-size=14 [$LINUX]
 		bgcolor="none"
 		textcolor="white"
 		font-family=basefont
-		font-size=15
-font-size=14 [$LINUX]
 		font-weight=400
 	}
 		ProgressBox {
@@ -876,8 +859,6 @@ font-size=14 [$LINUX]
 
 		"ProgressBox Label" {
 			textcolor=none
-			font-size=15
-font-size=14 [$LINUX]
 			font-family=basefont
 			font-weight=300
 			inset="0 0 0 10"
@@ -904,8 +885,6 @@ font-size=14 [$LINUX]
 		shadowtextcolor="darkestGrey"  // this is the cursor color
 		textcolor="green"
 		font-family=basefont
-		font-size=15
-font-size=14 [$LINUX]
 
 		render_bg {
 			0="fill(x0+2,y0+2,x1-2,y1-2, white)"
@@ -936,8 +915,6 @@ font-size=14 [$LINUX]
 		shadowtextcolor="darkestGrey"  // this is the cursor color
 		textcolor="green"
 		font-family=basefont
-		font-size=15
-font-size=14 [$LINUX]
 
 		render_bg {
 			0="fill(x0+2,y0+2,x1-2,y1-2, white)"
@@ -973,8 +950,6 @@ font-size=14 [$LINUX]
 		selectedbgcolor = blue
 		textcolor="white"
 		font-family=basefont
-		font-size=15
-font-size=14 [$LINUX]
 		font-weight=400
 		inset="0 -1 0 0"
 
@@ -990,8 +965,6 @@ font-size=14 [$LINUX]
 	"RichText url" {
 		selectedtextcolor="white"
 		textcolor="blue"
-		font-size=15
-font-size=14 [$LINUX]
 		font-style=underline
 	}
 
@@ -1002,20 +975,14 @@ font-size=14 [$LINUX]
 	"CFriendPanel RichText URL" {
 		textcolor="blue"
 		font-style=underline
-		font-size=15
-font-size=14 [$LINUX]
 	}
 
 	// style of bold text in a rich text control
 	"RichText bold" {
-		font-size=15
-font-size=14 [$LINUX]
 		font-weight=1000
 	}
 
 	"RichText emphasis" {
-		font-size=15
-font-size=14 [$LINUX]
 		font-style=italic
 	}
 
@@ -1025,8 +992,6 @@ font-size=14 [$LINUX]
 		selectedbgcolor="Focus"
 		textcolor="Text"
 		font-family=basefont
-		font-size=15
-font-size=14 [$LINUX]
 		font-weight=400
 
 		render_bg {
@@ -1075,15 +1040,11 @@ font-size=14 [$LINUX]
 
 	StatusLabel {
 		font-family=basefont
-		font-size=15
-font-size=14 [$LINUX]
 		font-weight=400
 		textcolor="labelfocus"
 	}
 		StatusLabel:hover {
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-weight=400
 			textcolor="white"
 		}
@@ -1108,8 +1069,6 @@ font-size=14 [$LINUX]
 		selectedbgcolor="TextSelectedBG"
 		textcolor="Text"
 		font-family=basefont
-		font-size=15
-font-size=14 [$LINUX]
 
 		render {}
 		render_bg {}
@@ -1164,8 +1123,6 @@ font-size=14 [$LINUX]
 		selectedbgcolor="Focus"
 		textcolor="Text"
 		font-family=basefont
-		font-size=15
-font-size=14 [$LINUX]
 		font-weight=400
 		inset="1 -1 1 1"
 
@@ -1198,28 +1155,24 @@ font-size=14 [$LINUX]
 
 		gamedetails-headerlabel {
 			textcolor="white"
-			font-size="36"
 			font-family=headerfont
 			font-weight=100
 		}
 
 		gamedetails-headerlabel-red {
 			textcolor="white"
-			font-size="36"
 			font-family=headerfont
 			font-weight=100
 		}
 
 		gamedetails-headerlabel-green {
 			textcolor="white"
-			font-size="36"
 			font-family=headerfont
 			font-weight=100
 		}
 
 		gamedetails-headerlabel-blue {
 			textcolor="white"
-			font-size="36"
 			font-family=headerfont
 			font-weight=100
 		}
@@ -1228,8 +1181,6 @@ font-size=14 [$LINUX]
 		textcolor="grey"
 		font-family="Lucida Console"
 		font-family="Menlo" [$OSX]
-		font-size=15
-font-size=14 [$LINUX]
 	}
 
 	console_text_error {
@@ -1237,9 +1188,6 @@ font-size=14 [$LINUX]
 		selectedbgcolor="blue"
 		textcolor="red"
 		font-family="Menlo" [$OSX]
-	  	font-size=16
-font-size=15
-font-size=14 [$LINUX]
 	}
 
 	console_text {
@@ -1248,8 +1196,6 @@ font-size=14 [$LINUX]
 		textcolor="white"
  		font-family="Lucida Console"
 		font-family="Menlo" [$OSX]
-	  	font-size=15
-font-size=14 [$LINUX]
 	}
 
 	// Controls the HOLD button on Voice Chat...
@@ -1257,8 +1203,6 @@ font-size=14 [$LINUX]
 		bgcolor=none
 		textcolor="white"
 		font-family=basefont
-		font-size=15
-font-size=14 [$LINUX]
 		font-style="outerglow"
 		font-outerglow-color="darkGreyEnd"
 		font-outerglow-offset=1
@@ -1319,8 +1263,6 @@ font-size=14 [$LINUX]
 			bgcolor=none
 			textcolor="grey"
 			font-family=basefont
-			font-size=15
-font-size=14 [$LINUX]
 			font-style="none"
 			padding-left=3
 			padding-top=2
@@ -1388,8 +1330,6 @@ font-size=14 [$LINUX]
 	}
 	SuperNavMenuItem {
 		bgcolor=none
-		font-size=15
-font-size=14 [$LINUX]
 		font-style="uppercase"
 		padding=4
 	}
